@@ -98,19 +98,31 @@ Screenshots of the actual test results are included in the `screenshots/` direct
 
 ## Repository Structure
 
-```text
 aws-ec2-instance-scheduler/
+│
 ├── README.md
 ├── lambda/
 │   └── ec2_instance_scheduler.py
+│
 ├── iam/
 │   └── ec2-instance-scheduler-policy.json
+│
 ├── architecture/
 │   └── ec2-scheduler-architecture.png
+│
 ├── screenshots/
+│   ├── 01-ec2-instance.png
+│   ├── 02-autoschedule-tag.png
+│   ├── 03-lambda-function.png
+│   ├── 04-iam-policy.png
+│   ├── 05-start-schedule.png
+│   ├── 06-stop-schedule.png
+│   ├── 07-start-test.png
+│   ├── 08-stop-test.png
+│   └── 09-cloudwatch-logs.png
+│
 └── docs/
     └── project-documentation.pdf
-```
 
 ## Key Learnings
 
