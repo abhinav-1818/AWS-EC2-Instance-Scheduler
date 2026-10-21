@@ -166,21 +166,21 @@ Actual test screenshots are provided in the `screenshots/` directory.
 
 ### EC2 Instance
 
-![EC2 Instance](screenshots/01-ec2-instance.png)
+![EC2 Instance](screenshots/ec2-instance.png)
 
 ### AutoSchedule Tag
 
-![AutoSchedule Tag](screenshots/02-autoschedule-tag.png)
+![AutoSchedule Tag](screenshots/autoschedule-tag.png)
 
 ### Lambda Function
 
-![Lambda Function](screenshots/03-lambda-function.png)
+![Lambda Function](screenshots/lambda-function.png)
 
 ### EventBridge Schedules
 
-![Start Schedule](screenshots/05-start-schedule.png)
+![Start Schedule](screenshots/start-schedule.png)
 
-![Stop Schedule](screenshots/06-stop-schedule.png)
+![Stop Schedule](screenshots/stop-schedule.png)
 
 
 ## 💰 Cost Optimization
