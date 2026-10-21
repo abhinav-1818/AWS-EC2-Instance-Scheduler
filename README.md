@@ -3,7 +3,6 @@
 ### Automated EC2 Start/Stop Using AWS Lambda and Amazon EventBridge Scheduler
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
-![Python](https://img.shields.io/badge/Python-Boto3-blue?logo=python)
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-orange?logo=awslambda)
 ![EC2](https://img.shields.io/badge/Amazon-EC2-orange?logo=amazonec2)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
