@@ -183,13 +183,6 @@ Actual test screenshots are provided in the `screenshots/` directory.
 
 ![Stop Schedule](screenshots/06-stop-schedule.png)
 
-### Testing and Monitoring
-
-![Start Test](screenshots/07-start-test.png)
-
-![Stop Test](screenshots/08-stop-test.png)
-
-![CloudWatch Logs](screenshots/09-cloudwatch-logs.png)
 
 ## 💰 Cost Optimization
 
