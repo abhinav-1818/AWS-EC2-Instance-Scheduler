@@ -1,3 +1,7 @@
+## AWS EC2 Instance Scheduler
+
+Automated EC2 Start/Stop Using AWS Lambda, Amazon EventBridge Scheduler, IAM, and CloudWatch Logs.
+
 ## Project Overview
 
 The AWS EC2 Instance Scheduler is a cloud automation project that starts and stops Amazon EC2 instances on a predefined schedule.
