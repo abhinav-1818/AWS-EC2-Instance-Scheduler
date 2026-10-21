@@ -174,13 +174,13 @@ Actual test screenshots are provided in the `screenshots/` directory.
 
 ### Lambda Function
 
-![Lambda Function](screenshots/lambda-function.png)
+![Lambda Function](screenshots/EC2InstanceSchedulerPolicy.png)
 
 ### EventBridge Schedules
 
-![Start Schedule](screenshots/start-schedule.png)
+![Start Schedule](screenshots/ec2-start-schedule.png)
 
-![Stop Schedule](screenshots/stop-schedule.png)
+![Stop Schedule](screenshots/ec2-stop-schedule.png)
 
 
 ## 💰 Cost Optimization
