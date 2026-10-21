@@ -138,32 +138,10 @@ Input:
 
 Configure the desired times and the `Asia/Kolkata` timezone if you want the schedules to run on Indian Standard Time.
 
-## 🔄 Workflow
+## Complete Workflow Architecture
 
-```text
-EventBridge Scheduler
-        │
-        ▼
-AWS Lambda
-        │
-        ▼
-Find EC2 instances
-AutoSchedule=true
-        │
-        ▼
-Read action
-   ┌────┴────┐
-   ▼         ▼
- START      STOP
-   │         │
-   ▼         ▼
-Stopped    Running
-   ↓         ↓
-Running    Stopped
-        │
-        ▼
-CloudWatch Logs
-```
+![AWS EC2 Instance Scheduler - Complete Workflow Architecture](architecture/complete-workflow-architecture.png)
+
 
 ## 🧪 Testing and Results
 
